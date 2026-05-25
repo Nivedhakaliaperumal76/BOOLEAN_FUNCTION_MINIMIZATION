@@ -76,6 +76,13 @@ Developed by: K NIVEDHA RegisterNumber: 212225230204
 **Timing Diagram**
 <img width="1600" height="852" alt="WhatsApp Image 2026-05-21 at 14 43 57 (1)" src="https://github.com/user-attachments/assets/06f0dd1d-aab9-408b-8743-5ccdd886718c" />
 
+
+
+
+
+
+
+
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
