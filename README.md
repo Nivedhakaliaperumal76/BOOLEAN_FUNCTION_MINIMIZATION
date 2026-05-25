@@ -87,3 +87,8 @@ Developed by: K NIVEDHA RegisterNumber: 212225230204
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
+
+
+.
+.
+
